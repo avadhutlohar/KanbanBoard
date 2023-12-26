@@ -1,6 +1,6 @@
 # Kanban Board
 
-### Implemented KanbanBoard
+### Build a drag and drop KanbanBoard 
 
 **Link to project :** [https://kanbanboard6298.netlify.app/]
 
